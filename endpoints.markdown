@@ -8,7 +8,7 @@ nav_order: 1
 
 ## **Endpoints**  
 
-|Abbreviation|Publishing Organisation|Endpoints|
+|Abbreviation|Publishing Organisation|Endpoint|
 |---------|----------|-----------|
 |dmg|Design Museum Gent|https://stad.gent/ldes/dmg|
 |hva|Huis van Alijn|https://stad.gent/ldes/hva|
